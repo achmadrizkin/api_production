@@ -23,3 +23,31 @@ Key
 
 ### Ads Request
 Confidential
+
+# Course
+Key
+- author_name -> a
+- author_social_media -> b
+- author_is_verified -> c
+- thumbnail_url -> d
+- thumnail_title -> e
+- thumnail_title_details -> f
+- link_course -> g
+- id_bind -> h
+- id -> i
+
+### Course Response
+    {
+        "a": "Achmad Rizki Nur Fauzie",
+        "b": "blabla",
+        "c": "1",
+        "d": "www.facebook.com",
+        "e": "Top 10 Project Idea for Mobile Developer",
+        "f": "asdasdadsdassaddasasdadsads",
+        "g": "www.facebook.com",
+        "h": "1",
+        "i": "1"
+      }
+      
+ ### Course Request
+ Confidential
