@@ -51,3 +51,20 @@ Key
       
  ### Course Request
  Confidential
+ 
+ 
+ # News
+ 
+ ### News Response
+     [
+      {
+        "i": "1",
+        "m": "image_url",
+        "a": "title_name",
+        "b": "title_details",
+        "g": "go_to_url"
+      }
+    ]
+
+ ### News Request
+ Confidential
