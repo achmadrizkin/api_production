@@ -68,3 +68,19 @@ Key
 
  ### News Request
  Confidential
+ 
+  # Check Version
+ 
+ ### Check Version Response
+     [
+      {
+        "a": "versionCode",
+        "b": "versionName",
+        "c": "url",
+        "d": "url",
+        "e": "???"
+      }
+    ]
+
+ ### Check Version Request
+ Confidential
