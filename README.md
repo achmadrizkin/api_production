@@ -76,9 +76,8 @@ Key
       {
         "a": "versionCode",
         "b": "versionName",
-        "c": "url",
-        "d": "url",
-        "e": "???"
+        "c": "url_destination",
+        "d": "????",
       }
     ]
 
