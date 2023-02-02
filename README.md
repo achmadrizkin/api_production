@@ -83,3 +83,20 @@ Key
 
  ### Check Version Request
  Confidential
+
+ ### News Request
+ Confidential
+ 
+  # Quotes
+ 
+ ### Quotes Response
+     [
+      {
+        "a": "name_quotes",
+        "b": "quotes",
+        "c": "image_url"
+      }
+    ]
+
+ ### Quotes Request
+ Confidential
