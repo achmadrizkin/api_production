@@ -102,3 +102,19 @@ Key
 
  ### Quotes Request
  Confidential
+ 
+# CV
+ 
+ ### CV Response
+     [
+       {
+        "a": "id",
+        "b": "image_url",
+        "c": "title",
+        "d": "details",
+        "e": "link_url"
+      },
+    ]
+
+ ### CV Request
+ Confidential
